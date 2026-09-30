@@ -1,0 +1,7 @@
+streamlit
+openai
+pymupdf
+python-dotenv
+apify-client
+mcp[cli]>=1.20,<2.0
+guardrails-ai
